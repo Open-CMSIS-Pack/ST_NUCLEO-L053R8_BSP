@@ -23,7 +23,7 @@
       - add DWARF-5 debug information
       - add Blinky+NUCLEO-L053R8.dbgconf and Blinky+NUCLEO-L053R8.dbgconf.base@0.0.0 files.
       - updated RTE_Components.h file.
-  </releases>
+    </release>
   </releases>
 
   <keywords>
